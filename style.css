@@ -1,0 +1,73 @@
+/* Bonus 1 */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+/* 2 */
+html {
+    font-family: 'Orbitron', sans-serif;
+}
+
+/* 3 */
+span {
+    font-weight: bold;
+}
+
+
+h1 {
+    /* 4 */
+    font-size: 50px;
+    /* 5 */
+    letter-spacing: 10px;
+    /* 6 */
+    text-align: center;
+    /* 7 */
+    text-transform: uppercase;
+    /* 8 */
+    text-decoration: underline;
+}
+
+/* 9 */
+#series-movies {
+    font-size: 20px;
+}
+
+/* 10 */
+h2{
+font-size: 2em;
+}
+
+/* 11 */
+li{
+    line-height: 2;
+}
+
+/* 12 */
+#characters {
+    font-size: 18px;
+}
+
+/* 13 */
+h4 {
+    letter-spacing: 15px;
+    /* Bonus 2 */
+    font-family: 'Press Start 2P', cursive;
+}
+
+/* Bonus 3 */
+h4, h3, h2 {
+    text-align: center;
+}
+
+/* Bonus 4 */
+li {
+    font-size: 1rem;
+}
+
+body{
+    /* Bonus 5 */
+    background-image: url("starTrek.jpg");
+    /* Bonus 6 */
+    color: rgba(255, 255, 255, .6);
+    /* 7 */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
